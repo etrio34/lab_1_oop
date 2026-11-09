@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Taaa\\csss\\Lab1Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8847F1A-A752-319A-0ADA-AA93919797C3}|Lab1Final\\Lab1Final.csproj|d:\\taaa\\csss\\lab1final\\lab1final\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8847F1A-A752-319A-0ADA-AA93919797C3}|Lab1Final\\Lab1Final.csproj|solutionrelative:lab1final\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\Taaa\\csss\\Lab1Final\\Lab1Final\\Calculator.cs",
+              "RelativeDocumentMoniker": "Lab1Final\\Calculator.cs",
+              "ToolTip": "D:\\Taaa\\csss\\Lab1Final\\Lab1Final\\Calculator.cs",
+              "RelativeToolTip": "Lab1Final\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-09T16:13:21.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

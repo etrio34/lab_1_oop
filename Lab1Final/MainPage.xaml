@@ -1,0 +1,20 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Lab1Final.MainPage"
+             Title="Табличний процесор (Варіант 39)">
+
+    <Grid RowDefinitions="Auto, *">
+        <HorizontalStackLayout Grid.Row="0" Spacing="10" Padding="10" BackgroundColor="#E0E0E0">
+            <Button Text="Зберегти" Clicked="OnSaveClicked" />
+            <Button Text="Завантажити" Clicked="OnLoadClicked" />
+            <Button Text="Додати рядок" Clicked="OnAddRowClicked" />
+            <Button Text="Додати колонку" Clicked="OnAddColClicked" />
+            <Button Text="Режим: Вирази" x:Name="BtnToggleView" Clicked="OnToggleViewClicked" />
+            <Button Text="Допомога" Clicked="OnHelpClicked" />
+        </HorizontalStackLayout>
+
+        <ScrollView Grid.Row="1" Orientation="Both">
+            <Grid x:Name="SpreadsheetGrid" Padding="10" ColumnSpacing="2" RowSpacing="2" />
+        </ScrollView>
+    </Grid>
+</ContentPage>
